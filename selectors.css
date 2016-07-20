@@ -13,12 +13,12 @@ li {
 }
 
 /*task4*/
-a .disabled {
-    color: purple;
+.disabled {
+    color: grey;
 }
 
-span .disabled {
-    color: grey;
+a.disabled, a span.disabled{
+    color: purple;
 }
 
 /*task5*/
