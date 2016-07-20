@@ -5,3 +5,15 @@ header {
 ul {
     list-style-type: none;
 }
+
+li {
+    display: inline-block;
+}
+
+a .disabled {
+    color: purple;
+}
+
+span .disabled {
+    color: grey;
+}
