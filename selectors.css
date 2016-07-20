@@ -1,7 +1,27 @@
+/*task 1*/
 header {
     border: 1px solid black;
 }
 
+/*task2*/
 ul {
     list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+/*task4*/
+a .disabled {
+    color: purple;
+}
+
+span .disabled {
+    color: grey;
+}
+
+/*task5*/
+.active {
+    color: yellow;
 }
